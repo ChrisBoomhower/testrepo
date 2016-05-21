@@ -1,0 +1,13 @@
+Computer programming:  3
+Math:  3
+Statistics:  2
+Machine Learning:  1
+Domain Expertise:  4 (Test, Manufacturing, and semiconductor process engineering)
+Communication and presentation skills:  4
+Data Visualization:  4
+
+Improvement in course:  I expect this course to provide greatest improvement in computer programming, machine learning, and communication and presentation skills.
+
+Improvement in program:  I expect this program to provide greatest improvement in statistics/math, computer programming, machine learning, and data visualization.
+
+When considering the Venn diagram discussed previously, I cannot think of any other skills not already mentioned here.
